@@ -1,0 +1,10 @@
+.vene/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+mlruns/
+mlartifacts/
+*.db
+.DS_Store
